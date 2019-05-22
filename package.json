@@ -22,6 +22,7 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
+    "emotion": "^10.0.9",
     "gatsby": "^2.0.76",
     "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-image": "^2.0.20",
@@ -39,8 +40,10 @@
     "prismjs": "^1.15.0",
     "prop-types": "^15.6.2",
     "react": "^16.8.0",
+    "react-custom-share": "^0.4.8",
     "react-dom": "^16.8.0",
     "react-helmet": "^5.2.0",
+    "react-icons": "^3.7.0",
     "typescript": "^3.4.5"
   },
   "devDependencies": {

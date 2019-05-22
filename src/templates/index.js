@@ -4,7 +4,16 @@ import { graphql } from 'gatsby'
 import SEO from '../components/seo'
 import Layout from '../components/layout'
 import Post from '../components/post'
+// import icons
+// import FaTwitter from "react-icons/lib/fa/twitter"
+// import FaFacebook from "react-icons/lib/fa/facebook"
+// import FaGooglePlus from "react-icons/lib/fa/google-plus"
+// import FaEnvelope from "react-icons/lib/fa/envelope"
+// import FaPinterest from "react-icons/lib/fa/pinterest"
+// import FaLinkedin from "react-icons/lib/fa/linkedin"
 import Navigation from '../components/navigation'
+// import react-custom-share components
+// import { ShareButtonRectangle, ShareBlockStandard } from 'react-custom-share'
 
 const Index = ({ data, pageContext: { nextPagePath, previousPagePath } }) => {
   const {

@@ -1,9 +1,10 @@
 ---
-title: "Example"
+title: "Example Post"
 date: "2017-01-02"
 path: "/example"
-author: "Lorem Ipsum"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
+author: "Nate Fugal"
+excerpt: "You know—an example post? They show you examples of stuff"
+tags: ["example", "testing"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.
@@ -24,3 +25,6 @@ Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia
 - Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.
 - Aenean facilisis ut ipsum condimentum ultrices.
 - Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.
+
+Em dashes are fun
+—
