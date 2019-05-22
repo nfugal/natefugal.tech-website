@@ -1,23 +1,41 @@
 ---
-title: "About"
-date: "2018-07-19"
-author: "Radek"
+title: "About Nate Fugal"
+date: "2019-05-22"
+author: "Nate Fugal"
 path: "/about"
 ---
 
-## Hi there
+## Who is Nate Fugal?
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+_Diving head-first into tech stuff since 1993_ (ask him about his first computer upgrade sometime) [He was born in the 80's but didn't start his tech adventures until 93].
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+In no particular order, here are some topics of interest to Nate:
+  + Design
+  + Networking
+  + Privacy
+  + Mr. Robot
+  + Star Wars
+  + Star Trek
+  + Firefly
+  + Bad Movies
+  + Raspberry Pi
+  + Sharp things
+  + Fire
+  + Security
+  + Cryptography
+  + Strange Planet
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+He still lives in the good ol' U.S. of A. where he was born and raised.
 
-The starter includes:
+Here are some projects that Nate uses/likes, again, in no particular order:
++ FreeNAS
++ pfSense  
++ Kubernetes
++ Ansible
++ Kodi
++ Android
++ SailfishOS
++ Now by Zeit
++ Gatsby.js
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
-
-So, there you have it... enjoy!
+You can usually find him where the WiFi signal is strong and the lights are low.
