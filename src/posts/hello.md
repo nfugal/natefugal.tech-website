@@ -1,7 +1,7 @@
 ---
 title: "Greetings"
 path: "/hello"
-date: "2019-05-22"
+date: "2019-05-21"
 coverImage: "../images/id.jpg"
 author: "Nate Fugal"
 excerpt: '"Hello, friend?" That''s lame. Maybe I should give you a name...'
