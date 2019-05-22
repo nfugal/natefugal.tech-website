@@ -28,3 +28,7 @@ Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia
 
 Em dashes are fun
 —
+
+
+Remember, if something hasn't gone wrong yet, you're not trying hard enough.
+-Nate

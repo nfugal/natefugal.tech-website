@@ -11,4 +11,6 @@ It is time. I've decided to start keeping a record of the stuff I do. Mostly for
 
 So here it is. My site/blog/landingpage.
 
+
+Remember, if something hasn't gone wrong yet, you're not trying hard enough.
 -Nate

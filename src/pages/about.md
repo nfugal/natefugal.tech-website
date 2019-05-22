@@ -1,6 +1,6 @@
 ---
 title: "About Nate Fugal"
-date: "2019-05-22"
+date: "2019-05-04"
 author: "Nate Fugal"
 path: "/about"
 ---
