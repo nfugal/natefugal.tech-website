@@ -22,10 +22,11 @@ In no particular order, here are some topics of interest to Nate:
   + Sharp things
   + Fire
   + Security
+  + DevOps
   + Cryptography
   + Strange Planet
 
-He still lives in the good ol' U.S. of A. where he was born and raised.
+He lives in the good ol' U.S. of A. where he was born and raised.
 
 Here are some projects that Nate uses/likes, again, in no particular order:
 + FreeNAS

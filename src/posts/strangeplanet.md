@@ -1,13 +1,16 @@
 ---
 title: "Strange Planet"
 date: "2019-05-22"
+coverImage: "../images/nonsense.jpg"
 path: "/strangeplanet"
 author: "Nate Fugal"
 excerpt: '"Imagine pleasant nonsense."'
 tags: ["comics", "musings"]
 ---
 
-## Strange Planet is Delightful
+## _Strange Planet_ is Delightful
+
+_Cover image from [this tweet](https://twitter.com/nathanwpyle/status/1100483318850772992/photo/3)_
 
 I've been seeing comics from Nathan W Pyle for a while now, but it is just recently that I connected his other work with the delightful _Strange Planet_ series in my brain (I know, I know, I should read the creator info on comics more carefully).
 
