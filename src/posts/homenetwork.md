@@ -30,6 +30,7 @@ Now for some detailed specs:
   + 2xIntel® 82574L Gigabit Ethernet
 + Switch1
   + Brocade ICX6610-48 48 port gigabit switch
++ _ISL - currently the switches are just connected together via a single 1 gig Ethernet. I hope to connect them with 10 gig SFPs soon because fiber is awesome!_
 + Switch2
   + Netgear MS510TXPP 8 port multigig smart managed pro with POE+ (this powers the APs)
 + AP1
@@ -47,3 +48,12 @@ Now for some detailed specs:
   + IPMI Card
   + 4x Seagate Ironwolf 6TB in RAID10
   + 4x HGST Deskstar NAS 4TB also in RAID10
+
+So there you have it. That's my home network. As mentioned in a [previous post](/vlans), currently it is a flat network, but I'm working on fixing that. Maybe I'll post some pictures some time, but killer cable managment is on the to do list so I don't think there is anything picture worthy yet.  
+
+Let me know what you think, if you want. I don't wanna tell you how to live your life. I can barely manage my own. I don't need the extra responsibility.
+
+
+Remember, if something hasn't gone wrong yet, you're not trying hard enough.
+
+-Nate
