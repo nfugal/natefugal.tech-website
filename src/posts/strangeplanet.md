@@ -20,5 +20,4 @@ I don't know of anywhere to read them all in one place. If you do, let me know. 
 
 
 Remember, if something hasn't gone wrong yet, you're not trying hard enough.
-
 -Nate
