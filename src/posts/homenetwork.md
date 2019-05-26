@@ -1,6 +1,6 @@
 ---
 title: "Home Setup"
-date: "2019-05-30?"
+date: "2019-05-25"
 coverImage: "../images/fractal.jpg"
 path: "/homenetwork"
 author: "Nate Fugal"
