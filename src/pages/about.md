@@ -7,7 +7,8 @@ path: "/about"
 
 ## Who is Nate Fugal?
 
-_Diving head-first into tech stuff since 1993_ (ask me about my first computer upgrade sometime) [I was born in the 80's but didn't start my tech adventures until '93 or so].
+_Diving head-first into tech stuff since 1993_ (ask me about my first computer upgrade sometime) <br />
+[I was born in the 80's but didn't start my tech adventures until '93 or so].
 
 I consider myself a breadth-geek—lots of interests, none particularly deep.
 
@@ -21,3 +22,7 @@ Some bits from my personal credo that I deem pertinent:
   + **I believe in thoughtful design.**
   + **I believe in persevering.**
   + **I believe words are important.**
+
+_Remember, if something hasn't gone wrong yet, you're not trying hard enough._
+
+-Nate

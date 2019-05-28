@@ -35,6 +35,6 @@ This all feels kinda whiny and I don't want to be that guy who just complains ab
 
 [![Jumpy hugs](https://i.imgur.com/NmRqoa8b.jpg)](https://i.imgur.com/NmRqoa8.mp4)
 
-Remember, if something hasn't gone wrong yet, you're not trying hard enough.
+_Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
 -Nate
