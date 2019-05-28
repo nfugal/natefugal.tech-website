@@ -7,36 +7,17 @@ path: "/about"
 
 ## Who is Nate Fugal?
 
-_Diving head-first into tech stuff since 1993_ (ask him about his first computer upgrade sometime) [He was born in the 80's but didn't start his tech adventures until 93].
+_Diving head-first into tech stuff since 1993_ (ask me about my first computer upgrade sometime) [I was born in the 80's but didn't start my tech adventures until '93 or so].
 
-In no particular order, here are some topics of interest to Nate:
-  + Design
-  + Networking
-  + Privacy
-  + Mr. Robot
-  + Star Wars
-  + Star Trek
-  + Firefly
-  + Bad Movies
-  + Raspberry Pi
-  + Sharp things
-  + Fire
-  + Security
-  + DevOps
-  + Cryptography
-  + Strange Planet
+I consider myself a breadth-geek—lots of interests, none particularly deep.
 
-He lives in the good ol' U.S. of A. where he was born and raised.
+My current main gig is tech support for enterprise level data storage.
 
-Here are some projects that Nate uses/likes, again, in no particular order:
-+ FreeNAS
-+ pfSense  
-+ Kubernetes
-+ Ansible
-+ Kodi
-+ Android
-+ SailfishOS
-+ Now by Zeit
-+ Gatsby.js
+I live in the good ol' U.S. of A. where I was born and raised.
 
-You can usually find him where the WiFi signal is strong and the lights are low.
+Some bits from my personal credo that I deem pertinent:
+
+  + **I believe in being kind.**
+  + **I believe in thoughtful design.**
+  + **I believe in persevering.**
+  + **I believe words are important.**

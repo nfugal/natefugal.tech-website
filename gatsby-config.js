@@ -10,7 +10,11 @@ module.exports = {
     title: `NateFugal.tech`,
     description: `Ramblings, Musings, & Projects by Nate`,
     copyrights: '© 2019 - Nate Fugal',
-    author: `@nfugal`,
+    social: {
+      twitter: `nfugal`,
+      github: 'nfugal',
+    },
+    author: `Nate Fugal`,
     logo: {
       src: '',
       alt: '',

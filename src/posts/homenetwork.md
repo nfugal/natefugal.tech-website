@@ -30,7 +30,8 @@ Now for some detailed specs:
   + 2xIntel® 82574L Gigabit Ethernet
 + Switch1
   + Brocade ICX6610-48 48 port gigabit switch
-+ _ISL - currently the switches are just connected together via a single 1 gig Ethernet. I hope to connect them with 10 gig SFPs soon because fiber is awesome!_
++ _ISL_
+  + currently the switches are just connected together via a single 1 gig Ethernet. I hope to connect them with 10 gig SFPs soon because _fiber is awesome!_
 + Switch2
   + Netgear MS510TXPP 8 port multigig smart managed pro with POE+ (this powers the APs)
 + AP1
@@ -39,11 +40,11 @@ Now for some detailed specs:
   + Ubiquti UniFi AP-AC Lite
 + Storage
   + FreeNAS
-  + SuperMicro SC846TQ-R900B Chassis
+  + SuperMicro SC846TQ-R900B Chassis w/ 24x 3.5" HDD bays (only 8 populated currently)
   + SuperMicro MBD-H8DME-2-O
-  + 2xQuad-Core AMD Opteron™ Processor 2372 HE @2.1GHz
+  + 2x Quad-Core AMD Opteron™ Processor 2372 HE @2.1GHz
   + 32 GB RAM ECC DDR2
-  + Intel® EXPI9404PTL NIC in a 4GB LAG to the Brocade Switch
+  + Intel® EXPI9404PTL NIC in a 4gig LAG to the Brocade Switch
   + On board NICs connected to the Brocade Switch as well, but not in the LAG
   + IPMI Card
   + 4x Seagate Ironwolf 6TB in RAID10
@@ -54,6 +55,6 @@ So there you have it. That's my home network. As mentioned in a [previous post](
 Let me know what you think, if you want. I don't wanna tell you how to live your life. I can barely manage my own. I don't need the extra responsibility.
 
 
-Remember, if something hasn't gone wrong yet, you're not trying hard enough.
+_Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
--Nate
+_-Nate_

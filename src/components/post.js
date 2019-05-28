@@ -4,6 +4,8 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import Navigation from './navigation'
 import { toKebabCase } from '../helpers'
+import Bio from './bio'
+
 
 import style from '../styles/post.module.css'
 
@@ -60,6 +62,7 @@ const Post = ({
         ) : (
           <>
             <div dangerouslySetInnerHTML={{ __html: html }} />
+            <Bio settings={author} />
             <Navigation
               previousPath={previousPath}
               previousLabel={previousLabel}
