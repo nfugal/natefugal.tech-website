@@ -176,6 +176,8 @@ blockquote {
   border-left: 2px solid;
   margin: 40px;
   padding: 10px 20px;
+  color: ##cbcbcb;
+  text-shadow: 2px #000000;
 
   @media (--phone) {
     margin: 10px;
