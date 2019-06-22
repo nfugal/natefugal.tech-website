@@ -1,7 +1,7 @@
 ---
 title: "Invictus"
-date: "2017-01-02"
-coverImage: "../images/ragnar.jpg"
+date: "2019-06-22"
+coverImage: "../images/atlas.jpg"
 path: "/invictus"
 author: "Nate Fugal"
 excerpt: "Invictus is Latin for unconquerable"
