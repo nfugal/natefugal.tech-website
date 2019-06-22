@@ -9,13 +9,9 @@ tags: ["personal growth", "non-tech"]
 ---
 ## Sometimes life kicks you in the gut. I believe in getting back up.
 
-A fairly casual dive into my family history says that I'm related to Björn Ironside Viking Chief and 1st ruler of the House of Munsö. That means that I'm also related to the semi-legendary Ragnar Lodbrok. You might know both of them from the History channel's show [Vikings](https://www.thetvdb.com/series/vikings).
+I read a post about this idea and poem on [The Art of Manliness](https://www.artofmanliness.com) a while back. I also read about establishing a personal code and/or creedo. 
 
-I know that what we _know_ about Ragnar is not particularly firm, but that hasn't stopped me from looking to him and the stories about him for qualities to emulate. He had insatiable curiosity. He is credited as saying, "Odin gave his eye to acquire knowledge. I would give far more." He was smart & clever (_I probably value the latter far too much_).
-
-But mostly I've been admiring his unconquerable spirit.
-
-#### “_Invictus_” by William Ernest Henley
+#### “Invictus” by William Ernest Henley
 
 >_Out of the night that covers me, <br />
 Black as the Pit from pole to pole, <br />
@@ -36,3 +32,11 @@ It matters not how strait the gate, <br />
 How charged with punishments the scroll, <br />
 I am the master of my fate; <br />
 I am the captain of my soul. <br />_
+
+_Invictus_ embodies something that I belive in. I believe in getting back up. There it is. For whatever it is worth.
+
+
+<br />
+_Remember, if something hasn't gone wrong yet, you're not trying hard enough._
+
+-Nate

@@ -19,6 +19,7 @@ In any case, if you aren't already familiar with his work, you should totally ch
 I don't know of anywhere to read them all in one place. If you do, let me know. I'm [@nfugal](https://twitter.com/nfugal) on Twitter. Getting comments working on here is on the to do list.
 
 
+<br />
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
 -Nate

@@ -55,6 +55,7 @@ So there you have it. That's my home network. As mentioned in a [previous post](
 Let me know what you think, if you want. I don't wanna tell you how to live your life. I can barely manage my own. I don't need the extra responsibility.
 
 
+<br />
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
 -Nate
