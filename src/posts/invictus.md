@@ -9,7 +9,7 @@ tags: ["personal growth", "non-tech"]
 ---
 ## Sometimes life kicks you in the gut. I believe in getting back up.
 
-I read a post about this idea and poem on [The Art of Manliness](https://www.artofmanliness.com) a while back. I also read about establishing a personal code and/or creedo. 
+I read a post about this idea and poem on [The Art of Manliness](https://www.artofmanliness.com) a while back. I also read about establishing a personal code and/or creedo.
 
 #### “Invictus” by William Ernest Henley
 
@@ -37,6 +37,7 @@ _Invictus_ embodies something that I belive in. I believe in getting back up. Th
 
 
 <br />
+
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
 -Nate

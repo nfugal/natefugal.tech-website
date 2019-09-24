@@ -37,6 +37,7 @@ This all feels kinda whiny and I don't want to be that guy who just complains ab
 
 
 <br />
+
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
 -Nate

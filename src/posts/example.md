@@ -427,6 +427,7 @@ Or, in pure Markdown, but losing the image sizing and border:
 ```
 
 <br />
+
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
 -Nate
