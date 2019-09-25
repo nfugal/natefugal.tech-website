@@ -16,7 +16,7 @@ My current main gig is tech support for enterprise level data storage.
 
 I live in the good ol' U.S. of A. where I was born and raised.
 
-Some bits from my personal credo that I deem pertinent to these circumstances:
+Some bits from my personal credo that I deem pertinent to these introduction-type circumstances:
 
   + **I believe in being _kind_.**
   + **I believe in _thoughtful_ design.**
