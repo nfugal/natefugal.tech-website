@@ -4,7 +4,7 @@ date: "2019-09-25"
 coverImage: "../images/geometric.webp"
 path: "/vlans2"
 author: "Nate Fugal"
-excerpt: "This time I claim a small victory"
+excerpt: "This time _I_ claim a small victory"
 tags: ["network", "VLANs", "UniFi"]
 ---
 
@@ -18,7 +18,7 @@ I recently changed my home network some. With the help of a good friend I reorga
 
 As part of the physical rearranging I changed the logical layout some to. My network is no longer flat! I made some progress with VLANs!
 
-I haven't fully got them where I like, but I'm getting there. I have a guest Wi-Fi network on a separate VLAN. I've setup a few other VLANs—I'm not using them just yet though.
+I haven't fully got them where I like just yet, but I'm getting there. I setup guest Wi-Fi on an isolated VLAN. I plan to implement further division sometime in the future.
 
 I'm pleased to have them working at all. Hopefully I'll make more progress soon.
 
