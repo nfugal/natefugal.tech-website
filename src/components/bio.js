@@ -7,7 +7,7 @@
 
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
-import profilePic from '../images/avatar.jpg'
+import profilePic from '../images/avatar.webp'
 
 import { rhythm } from '../utils/typography'
 

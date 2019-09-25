@@ -1,7 +1,7 @@
 ---
 title: "Strange Planet"
 date: "2019-05-22"
-coverImage: "../images/nonsense.jpg"
+coverImage: "../images/nonsense.webp"
 path: "/strangeplanet"
 author: "Nate Fugal"
 excerpt: '"Imagine pleasant nonsense."'

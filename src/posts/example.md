@@ -1,7 +1,7 @@
 ---
 title: "Example Post"
 date: "2019-01-02"
-coverImage: "../images/matrix.jpg"
+coverImage: "../images/matrix.webp"
 path: "/example"
 author: "Nate Fugal"
 excerpt: "You know—an example post? They show you examples of stuff"

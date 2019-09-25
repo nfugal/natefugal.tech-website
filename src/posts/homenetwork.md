@@ -1,7 +1,7 @@
 ---
 title: "Home Setup"
 date: "2019-05-25"
-coverImage: "../images/fractal.jpg"
+coverImage: "../images/fractal.webp"
 path: "/homenetwork"
 author: "Nate Fugal"
 excerpt: "If a man's home is his castle, what does that make his home network?"
@@ -14,7 +14,7 @@ There are lots of things I could say about my home network, I'll probably say a 
 
 My network serves a couple of desktop computers, a few laptops, a handful of phones & tablets, smattering of IoT devices, a sprinkling of single board computers, & a modest 3 node Kubernetes (K8s) cluster [A short digression, Kubernetes is often shortened to K8s, 8 representing the 8 letters in between the K and s in Kubernetes. Digression done. See I told you it would be short]. Connecting it all together and to the larger internet I have a 26U rack. In the rack I have a pfSense firewall, a 48 port gigabit Brocade switch, an 8 port multi-gig Netgear switch, and for storage, a lovely 24-bay SuperMicro server running FreeNAS. Most of my infrastructure I acquired 2nd hand, but it still runs great and is fun to tinker with (The HDDs in my FreeNAS box were all new when I purchased them).
 
-A diagram of my physcial network looks something like this:
+A diagram of my physical network looks something like this:
 
 ![Network Diagram](../images/networkdiagram.png)
 
@@ -50,7 +50,7 @@ Now for some detailed specs:
   + 4x Seagate Ironwolf 6TB in RAID10
   + 4x HGST Deskstar NAS 4TB also in RAID10
 
-So there you have it. That's my home network. As mentioned in a [previous post](/vlans), currently it is a flat network, but I'm working on fixing that. Maybe I'll post some pictures some time, but killer cable managment is on the to do list so I don't think there is anything picture worthy yet.  
+So there you have it. That's my home network. As mentioned in a [previous post](/vlans), currently it is a flat network, but I'm working on fixing that. Maybe I'll post some pictures some time, but killer cable management is on the to do list so I don't think there is anything picture worthy yet.  
 
 Let me know what you think, if you want. I don't wanna tell you how to live your life. I can barely manage my own. I don't need the extra responsibility.
 

@@ -1,7 +1,7 @@
 ---
 title: "VLAN Vexation"
 date: "2019-05-23"
-coverImage: "../images/system.jpg"
+coverImage: "../images/system.webp"
 path: "/vlans"
 author: "Nate Fugal"
 excerpt: "VLANs are a simple concept that can be rather tricky in the implementation"

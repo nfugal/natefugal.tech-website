@@ -1,7 +1,7 @@
 ---
 title: "Invictus"
 date: "2019-06-22"
-coverImage: "../images/atlas.jpg"
+coverImage: "../images/atlas.webp"
 path: "/invictus"
 author: "Nate Fugal"
 excerpt: "Invictus is Latin for unconquerable"
@@ -33,7 +33,7 @@ How charged with punishments the scroll, <br />
 I am the master of my fate; <br />
 I am the captain of my soul. <br />_
 
-_Invictus_ embodies something that I belive in. I believe in getting back up. There it is. For whatever it is worth.
+_Invictus_ embodies something that I believe in. I believe in getting back up. There it is. For whatever it is worth.
 
 
 <br />
