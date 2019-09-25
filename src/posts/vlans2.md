@@ -4,7 +4,7 @@ date: "2019-09-25"
 coverImage: "../images/geometric.webp"
 path: "/vlans2"
 author: "Nate Fugal"
-excerpt: "This time _I_ claim a small victory"
+excerpt: "This time I claim a small victory"
 tags: ["network", "VLANs", "UniFi"]
 ---
 
