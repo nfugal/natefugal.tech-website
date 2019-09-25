@@ -1,7 +1,7 @@
 ---
 title: "VLANs Round 2"
 date: "2019-09-25"
-coverImage: "../images/tunnel.webp"
+coverImage: "../images/geometric.webp"
 path: "/vlans2"
 author: "Nate Fugal"
 excerpt: "This time I claim a small victory"
