@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: `NateFugal.tech`,
     description: `Ramblings, Musings, & Projects by Nate`,
-    copyrights: '© 2020 - Nate Fugal',
+    copyrights: '© 2021 - Nate Fugal',
     social: {
       twitter: `nfugal`,
       github: 'nfugal',
