@@ -10,11 +10,11 @@ tags: ["network", "pfSense", "UniFi", "FreeNAS", "Netgear", "Cisco"]
 
 ## Sweet, Sweet Overkill―Still
 
-A combination of factors led me to redo a significant portion of my network infrastructure―mainly replacing my backbone switch. I swapped my trusty (and noisy) Brocade ICX6610 for a (quieter and more familiar) Cisco WS-C3750E-48PD-SF. The new switch has POE so I don't need my Netgear switch anymore. I haven't decided if I'll get rid of it or not, but for now it is just collecting dust. I just had an idea as I was writing this. Perhaps I'll run a 10Gig line to my office & put the Netgear there... That could be fun. I still have some tweaking to do with the new switch, but I'm pretty pleased with how it is currently.
+A combination of factors led me to redo a significant portion of my network infrastructure―mainly replacing my backbone switch. I swapped my trusty (and noisy) Brocade ICX6610 for a (quieter and more familiar) Cisco WS-C3750E-48PD-SF. The new switch has POE so I don't need my Netgear switch anymore. I haven't decided if I'll get rid of it or not, but for now it is just collecting dust. I just had an idea as I was writing this. Perhaps I'll run a 10gig line to my office & put the Netgear there... That could be fun. I still have some tweaking to do with the new switch, but I'm pretty pleased with how it is currently. Firewall is probably the next hardware upgrade I'll do.
 
 Here's an updated diagram of my network layout:
 
-![Network Diagram](../images/netdiagram.svg)
+![Network Diagram](../images/netdiagram.webp)
 
 _All the devices not pictured either connect wirelessly through the APs or are wired to the backbone switch._
 
@@ -34,12 +34,12 @@ Now for some detailed specs, changed things in **bold**:
   + Ubiquti UniFi AP-AC Lite
 + Storage
   + FreeNAS
-  + SuperMicro SC846TQ-R900B Chassis w/ 24x 3.5" HDD bays (only 12 populated currently)
+  + SuperMicro SC846TQ-R900B Chassis w/ 24x 3.5" HDD bays (only 8 populated currently)
   + SuperMicro MBD-H8DME-2-O
   + 2x Quad-Core AMD Opteron™ Processor 2372 HE @2.1GHz
   + 32 GB RAM ECC DDR2
-  + Intel® EXPI9404PTL NIC in a 4gig LAG to the Brocade Switch
-  + On board NICs connected to the Brocade Switch as well, but not in the LAG
+  + Intel® EXPI9404PTL NIC in a 4gig LAG to the **Cisco** Switch
+  + On board NICs connected to the **Cisco** Switch as well, but not in the LAG
   + IPMI Card
   + 4x Seagate Ironwolf 6TB in RAID10
   + 4x HGST Deskstar NAS 4TB also in RAID10
