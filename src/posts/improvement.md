@@ -1,7 +1,7 @@
 ---
 title: "Self Improvement & Growth Mindset"
 date: "2021-01-27"
-coverImage: "../images/network.webp"
+coverImage: "../images/viking.webp"
 path: "/improvement"
 author: "Nate Fugal"
 excerpt: "Sometimes it is hard to remember, but growth mindset is better"
