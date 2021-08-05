@@ -12,7 +12,7 @@ _Diving head-first into tech stuff since 1993_ (ask me about my first computer u
 
 I consider myself a breadth-geek—lots of interests, none particularly deep.
 
-My current main gig is tech support for enterprise level data storage.
+My current main gig is trying to make the healthcare experience suck a little less.
 
 I live in the good ol' U.S. of A. where I was born and raised.
 
@@ -22,6 +22,7 @@ Some bits from my personal credo that I deem pertinent to these introduction-typ
   + **I believe in _thoughtful_ design.**
   + **I believe in _persevering_.**
   + **I believe _words_ are important.**
+  + **I believe in _watching_ the credits.**  
 
 _Remember, if something hasn't gone wrong yet, you're not trying hard enough._
 
