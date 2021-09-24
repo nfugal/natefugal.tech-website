@@ -1,3 +1,7 @@
+##DEPRICATED
+###See https://github.com/nfugal/stunning-octo-pancake instead
+
+
 This is my website.
 
 Things might be a bit of a mess while I figure things out.
