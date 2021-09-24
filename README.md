@@ -1,5 +1,5 @@
-##DEPRICATED
-###See https://github.com/nfugal/stunning-octo-pancake instead
+## DEPRICATED
+### See https://github.com/nfugal/stunning-octo-pancake instead
 
 
 This is my website.
